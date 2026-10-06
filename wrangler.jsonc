@@ -13,7 +13,7 @@
   ],
   "vars": {
     "DB_FORMAT": "map",
-    "DB_DRIVER": "blob",
+    "DB_DRIVER": "kv",
     "JWT_SECRET": "rAw0bnoZJdFiTpfglBLK3R8CGaWXV2hk",
     "ADMIN_PASSWORD": "123456"
   }
